@@ -35,25 +35,6 @@ Không cần Spotify API. Không cần Spotify Premium. Chỉ cần Discord User
 
 ---
 
-## 📥 Tải về
-
-Vào trang [**Releases**](../../releases) và tải file `discord-lyrics-status.exe`.
-
-> Yêu cầu Windows 10 hoặc 11. Không cần cài thêm phần mềm nào.
-
----
-
-## 🚀 Bắt đầu nhanh
-
-1. **Tải** `discord-lyrics-status.exe` từ trang [Releases](../../releases)
-2. **Chạy** file `.exe` — lần đầu trình duyệt sẽ tự mở
-3. **Nhập Discord User Token** rồi nhấn *Lưu và khởi động*
-4. **Phát nhạc** trên Spotify — lyrics sẽ hiện lên Discord status theo thời gian thực
-
-Token của bạn được lưu cục bộ tại `%APPDATA%\discord-lyrics-status\config.json`, không gửi đi đâu ngoài API của Discord.
-
----
-
 ## 🔑 Lấy Discord User Token
 
 > **Cảnh báo:** User token cho phép truy cập toàn bộ tài khoản Discord của bạn. Không chia sẻ với bất kỳ ai.
