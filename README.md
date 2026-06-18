@@ -35,25 +35,6 @@ No Spotify API key. No Spotify Premium. No setup beyond a single Discord token.
 
 ---
 
-## 📥 Download
-
-Go to the [**Releases**](../../releases) page and download `discord-lyrics-status.exe`.
-
-> Requires Windows 10 or 11. No additional software needed.
-
----
-
-## 🚀 Quick Start
-
-1. **Download** `discord-lyrics-status.exe` from [Releases](../../releases)
-2. **Run** the `.exe` — a browser window will open automatically on first launch
-3. **Enter your Discord User Token** and click *Save & Start*
-4. **Play music** on Spotify — lyrics will appear on your Discord status in real time
-
-Your token is stored locally at `%APPDATA%\discord-lyrics-status\config.json` and never sent anywhere other than Discord's own API.
-
----
-
 ## 🔑 Getting Your Discord User Token
 
 > **Warning:** Your user token grants full access to your Discord account. Never share it with anyone.
